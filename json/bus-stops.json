@@ -1,0 +1,4272 @@
+{
+  "markers": [
+    {
+      "id": "52999",
+      "smsCode": "52999",
+      "name": "Aldgate East Station",
+      "stopIndicator": "F",
+      "towards": "Shoreditch",
+      "direction": "nw",
+      "lat": 51.51562765960321,
+      "lng": -0.07228660115673055,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "56219",
+      "smsCode": "56219",
+      "name": "All Hallows Church",
+      "stopIndicator": "U",
+      "towards": "Aldgate",
+      "direction": "e",
+      "lat": 51.51668643523615,
+      "lng": -0.08476700257541234,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "51863",
+      "smsCode": "51863",
+      "name": "Appold Street",
+      "stopIndicator": "AP",
+      "towards": null,
+      "direction": "n",
+      "lat": 51.521664901423684,
+      "lng": -0.08125714128982325,
+      "routes": [
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        }
+      ]
+    },
+    {
+      "id": "73280",
+      "smsCode": "73280",
+      "name": "Baltic Street West",
+      "stopIndicator": "BP",
+      "towards": "Aldwych, Finsbury Square or St Barts Hospital",
+      "direction": "s",
+      "lat": 51.52234228456498,
+      "lng": -0.09744554982218818,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "49629",
+      "smsCode": "49629",
+      "name": "Bancroft Road / Ocean Estate",
+      "stopIndicator": "C",
+      "towards": "Bow",
+      "direction": "e",
+      "lat": 51.52230522124505,
+      "lng": -0.04380876825321545,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "72328",
+      "smsCode": "72328",
+      "name": "Barbican Centre",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "e",
+      "lat": 51.51987156295487,
+      "lng": -0.09149455014102832,
+      "routes": []
+    },
+    {
+      "id": "75917",
+      "smsCode": "75917",
+      "name": "Barbican Centre",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "w",
+      "lat": 51.51966635949369,
+      "lng": -0.09104187584364382,
+      "routes": []
+    },
+    {
+      "id": "73081",
+      "smsCode": "73081",
+      "name": "Barbican Station",
+      "stopIndicator": "BB",
+      "towards": "Aldwych, Finsbury Square or St Barts Hospital",
+      "direction": "s",
+      "lat": 51.5209021126969,
+      "lng": -0.09736142747575234,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "57079",
+      "smsCode": "57079",
+      "name": "Barbican Station",
+      "stopIndicator": "BA",
+      "towards": "Angel Islington or Sadler's Wells",
+      "direction": "n",
+      "lat": 51.52045582690893,
+      "lng": -0.09756741515326914,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "51760",
+      "smsCode": "51760",
+      "name": "Barnet Grove",
+      "stopIndicator": "SC",
+      "towards": "Old Ford or Cambridge Heath",
+      "direction": "e",
+      "lat": 51.52619421532314,
+      "lng": -0.06738571099558299,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "49067",
+      "smsCode": "49067",
+      "name": "Barnet Grove",
+      "stopIndicator": "SD",
+      "towards": "Liverpool Street",
+      "direction": "w",
+      "lat": 51.526155622484005,
+      "lng": -0.06668094876124671,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "47223",
+      "smsCode": "47223",
+      "name": "Beech Street",
+      "stopIndicator": "BN",
+      "towards": "Finsbury Square",
+      "direction": "e",
+      "lat": 51.52071843682807,
+      "lng": -0.09435645643266186,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "51690",
+      "smsCode": "51690",
+      "name": "Beech Street",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "n",
+      "lat": 51.52067119328974,
+      "lng": -0.09255661982165829,
+      "routes": []
+    },
+    {
+      "id": "47752",
+      "smsCode": "47752",
+      "name": "Bethnal Green Station",
+      "stopIndicator": "C",
+      "towards": "Hackney",
+      "direction": "n",
+      "lat": 51.52684486683913,
+      "lng": -0.05560872620081685,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "51904",
+      "smsCode": "51904",
+      "name": "Bethnal Green Station",
+      "stopIndicator": "B",
+      "towards": "Hackney or Shoreditch",
+      "direction": "w",
+      "lat": 51.5273437049055,
+      "lng": -0.054780141070295225,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "309",
+          "name": "309"
+        },
+        {
+          "id": "D6",
+          "name": "D6"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "53068",
+      "smsCode": "53068",
+      "name": "Bethnal Green Station",
+      "stopIndicator": "D",
+      "towards": "Hackney, Old Ford or London Chest Hospital",
+      "direction": "e",
+      "lat": 51.52742206978608,
+      "lng": -0.05679513550420075,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "D3",
+          "name": "D3"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "57177",
+      "smsCode": "57177",
+      "name": "Bethnal Grn Rd / Shoreditch High St Stn",
+      "stopIndicator": "J",
+      "towards": "Bethnal Green",
+      "direction": "e",
+      "lat": 51.52371869216959,
+      "lng": -0.07652903008895383,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "56997",
+      "smsCode": "56997",
+      "name": "Bishopsgate",
+      "stopIndicator": "N",
+      "towards": "St Paul's",
+      "direction": "nw",
+      "lat": 51.51587012596422,
+      "lng": -0.08103945897326488,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "75365",
+      "smsCode": "75365",
+      "name": "Booth Memorial",
+      "stopIndicator": "S",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.520364836673856,
+      "lng": -0.05311717345982854,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "55893",
+      "smsCode": "55893",
+      "name": "Booth Memorial",
+      "stopIndicator": "G",
+      "towards": "Bow",
+      "direction": "e",
+      "lat": 51.52031962278297,
+      "lng": -0.05418576993877811,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "77889",
+      "smsCode": "77889",
+      "name": "Brick Lane",
+      "stopIndicator": "SB",
+      "towards": "Liverpool Street",
+      "direction": "sw",
+      "lat": 51.525182001035446,
+      "lng": -0.07090281328645366,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "58500",
+      "smsCode": "58500",
+      "name": "Brick Lane",
+      "stopIndicator": "SA",
+      "towards": "Old Ford or Cambridge Heath",
+      "direction": "ne",
+      "lat": 51.52461377295298,
+      "lng": -0.07244048397828627,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "51015",
+      "smsCode": "51015",
+      "name": "Brushfield Street",
+      "stopIndicator": null,
+      "towards": "Aldgate",
+      "direction": "s",
+      "lat": 51.51863787194534,
+      "lng": -0.07433599008708458,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "52630",
+      "smsCode": "52630",
+      "name": "Brushfield Street",
+      "stopIndicator": null,
+      "towards": "Dalston",
+      "direction": "n",
+      "lat": 51.518866787610705,
+      "lng": -0.07458578509430494,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "76087",
+      "smsCode": "76087",
+      "name": "Bunhill Row",
+      "stopIndicator": "G",
+      "towards": "Holborn",
+      "direction": "w",
+      "lat": 51.525320379464674,
+      "lng": -0.08979629364315825,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "54209",
+      "smsCode": "54209",
+      "name": "Burnham Street",
+      "stopIndicator": "K",
+      "towards": "Bow Church or Poplar",
+      "direction": "e",
+      "lat": 51.527763510718074,
+      "lng": -0.05244114484993511,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "309",
+          "name": "309"
+        },
+        {
+          "id": "D6",
+          "name": "D6"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "73073",
+      "smsCode": "73073",
+      "name": "Calvert Avenue",
+      "stopIndicator": "C",
+      "towards": null,
+      "direction": "e",
+      "lat": 51.52640772864237,
+      "lng": -0.07709327173751829,
+      "routes": []
+    },
+    {
+      "id": "58466",
+      "smsCode": "58466",
+      "name": "Cambridge Heath Road",
+      "stopIndicator": "E",
+      "towards": "Cambridge Heath",
+      "direction": "e",
+      "lat": 51.51985492915928,
+      "lng": -0.05707401974122596,
+      "routes": [
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "75360",
+      "smsCode": "75360",
+      "name": "Cavell Street",
+      "stopIndicator": "W",
+      "towards": "Hackney",
+      "direction": "n",
+      "lat": 51.51845951457001,
+      "lng": -0.05752258101880847,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        }
+      ]
+    },
+    {
+      "id": "52745",
+      "smsCode": "52745",
+      "name": "Central Street",
+      "stopIndicator": "BZ",
+      "towards": "Shoreditch",
+      "direction": "ne",
+      "lat": 51.524021222232236,
+      "lng": -0.09672687080248465,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "58689",
+      "smsCode": "58689",
+      "name": "Cephas Street",
+      "stopIndicator": "N",
+      "towards": "Hackney",
+      "direction": "n",
+      "lat": 51.52316677600123,
+      "lng": -0.05505905839863298,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "51713",
+      "smsCode": "51713",
+      "name": "Cephas Street",
+      "stopIndicator": "P",
+      "towards": "Aldgate",
+      "direction": "s",
+      "lat": 51.523019173697605,
+      "lng": -0.05483470314958728,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "74231",
+      "smsCode": "74231",
+      "name": "City Road / Leonard Street",
+      "stopIndicator": "M",
+      "towards": "Bank",
+      "direction": "s",
+      "lat": 51.52420233243644,
+      "lng": -0.0874068486180974,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "57859",
+      "smsCode": "57859",
+      "name": "Clerkenwell Road",
+      "stopIndicator": "BV",
+      "towards": "Aldwych or Barts Hospital",
+      "direction": "se",
+      "lat": 51.523750027858966,
+      "lng": -0.09885724782232017,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "57965",
+      "smsCode": "57965",
+      "name": "Clerkenwell Road / Old Street",
+      "stopIndicator": "BQ",
+      "towards": "Angel Islington or Sadler's Wells",
+      "direction": "nw",
+      "lat": 51.522846353483665,
+      "lng": -0.09802997649917695,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "51691",
+      "smsCode": "51691",
+      "name": "Clerkenwell Road / St John Street",
+      "stopIndicator": null,
+      "towards": "Holborn or Angel Islington",
+      "direction": "w",
+      "lat": 51.52260873806833,
+      "lng": -0.10112470240865297,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "77116",
+      "smsCode": "77116",
+      "name": "Colebert Avenue",
+      "stopIndicator": "HP",
+      "towards": "Bethnal Green",
+      "direction": "nw",
+      "lat": 51.52459957395412,
+      "lng": -0.048741551020882436,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "55085",
+      "smsCode": "55085",
+      "name": "Colebert Avenue",
+      "stopIndicator": "HN",
+      "towards": "Poplar",
+      "direction": "se",
+      "lat": 51.52487059815739,
+      "lng": -0.048816459721606496,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "74906",
+      "smsCode": "74906",
+      "name": "Commercial Street / Worship Street",
+      "stopIndicator": "D",
+      "towards": "Aldgate, Bank or Monument",
+      "direction": "s",
+      "lat": 51.52192847917681,
+      "lng": -0.07813244515277391,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "55524",
+      "smsCode": "55524",
+      "name": "Curtain Road",
+      "stopIndicator": "A",
+      "towards": "Old Street Station",
+      "direction": "nw",
+      "lat": 51.52397091972122,
+      "lng": -0.07984839126729033,
+      "routes": [
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "52397",
+      "smsCode": "52397",
+      "name": "Curtain Road",
+      "stopIndicator": "ZA",
+      "towards": "Shoreditch Church",
+      "direction": "n",
+      "lat": 51.52490618463327,
+      "lng": -0.0804000949264872,
+      "routes": [
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        }
+      ]
+    },
+    {
+      "id": "74393",
+      "smsCode": "74393",
+      "name": "Darling Row",
+      "stopIndicator": "M",
+      "towards": "Hackney",
+      "direction": "n",
+      "lat": 51.52126870623414,
+      "lng": -0.05610571782553754,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "76004",
+      "smsCode": "76004",
+      "name": "Darling Row",
+      "stopIndicator": "R",
+      "towards": "Aldgate",
+      "direction": "s",
+      "lat": 51.521158244832485,
+      "lng": -0.05595186007422596,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "51764",
+      "smsCode": "51764",
+      "name": "Elder Street",
+      "stopIndicator": "H",
+      "towards": "Aldgate",
+      "direction": "se",
+      "lat": 51.52193301423971,
+      "lng": -0.07621507255284157,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "54814",
+      "smsCode": "54814",
+      "name": "Elder Street",
+      "stopIndicator": "G",
+      "towards": "Dalston Junction",
+      "direction": "nw",
+      "lat": 51.52226786291834,
+      "lng": -0.07689288077581552,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "48759",
+      "smsCode": "48759",
+      "name": "Eldon Street / Liverpool Street Stn",
+      "stopIndicator": "V",
+      "towards": "Whitechapel",
+      "direction": "se",
+      "lat": 51.51843285645378,
+      "lng": -0.08488111760065245,
+      "routes": []
+    },
+    {
+      "id": "71579",
+      "smsCode": "71579",
+      "name": "Epworth Street",
+      "stopIndicator": "E",
+      "towards": "Bank",
+      "direction": "s",
+      "lat": 51.52264110473455,
+      "lng": -0.08706864180892002,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "77169",
+      "smsCode": "77169",
+      "name": "Fakruddin Street",
+      "stopIndicator": "V",
+      "towards": "Bethnal Green",
+      "direction": "n",
+      "lat": 51.5225209484255,
+      "lng": -0.06439874338915168,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "59372",
+      "smsCode": "59372",
+      "name": "Fakruddin Street",
+      "stopIndicator": "SG",
+      "towards": "Wapping",
+      "direction": "s",
+      "lat": 51.52298443157959,
+      "lng": -0.0641484453464451,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "49957",
+      "smsCode": "49957",
+      "name": "Fieldgate Street",
+      "stopIndicator": "M",
+      "towards": "Bethnal Green or Mile End",
+      "direction": "ne",
+      "lat": 51.51703716317843,
+      "lng": -0.06777335799820249,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "58925",
+      "smsCode": "58925",
+      "name": "Fieldgate Street",
+      "stopIndicator": "K",
+      "towards": "Bank or Liverpool Street",
+      "direction": "sw",
+      "lat": 51.51734073047836,
+      "lng": -0.06654977902276778,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "58866",
+      "smsCode": "58866",
+      "name": "Finsbury Circus",
+      "stopIndicator": "T",
+      "towards": null,
+      "direction": "sw",
+      "lat": 51.51747525772809,
+      "lng": -0.08571402797581552,
+      "routes": []
+    },
+    {
+      "id": "77645",
+      "smsCode": "77645",
+      "name": "Finsbury Square",
+      "stopIndicator": "G",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.5203264830311,
+      "lng": -0.0863007726214458,
+      "routes": [
+        {
+          "id": "214",
+          "name": "214"
+        }
+      ]
+    },
+    {
+      "id": "91621",
+      "smsCode": "91621",
+      "name": "Finsbury Square",
+      "stopIndicator": "J",
+      "towards": "Barbican",
+      "direction": "w",
+      "lat": 51.52033311892967,
+      "lng": -0.08615635066928179,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "57671",
+      "smsCode": "57671",
+      "name": "Finsbury Square",
+      "stopIndicator": "C",
+      "towards": "Angel Islington or Hoxton",
+      "direction": "n",
+      "lat": 51.52014851913933,
+      "lng": -0.08751903562323743,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "73861",
+      "smsCode": "73861",
+      "name": "Finsbury Square",
+      "stopIndicator": "D",
+      "towards": "Hoxton",
+      "direction": "n",
+      "lat": 51.5210798179109,
+      "lng": -0.08727821441572851,
+      "routes": [
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        }
+      ]
+    },
+    {
+      "id": "58266",
+      "smsCode": "58266",
+      "name": "Finsbury Square",
+      "stopIndicator": "H",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.52047031910728,
+      "lng": -0.08574699489261095,
+      "routes": [
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        }
+      ]
+    },
+    {
+      "id": "47791",
+      "smsCode": "47791",
+      "name": "Finsbury Square / Moorgate",
+      "stopIndicator": "K",
+      "towards": "Bank",
+      "direction": "s",
+      "lat": 51.52009131196172,
+      "lng": -0.087319632065553,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "55544",
+      "smsCode": "55544",
+      "name": "Finsbury Street",
+      "stopIndicator": "S",
+      "towards": "Angel Islington",
+      "direction": "w",
+      "lat": 51.520515193056696,
+      "lng": -0.0884982698656932,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "52701",
+      "smsCode": "52701",
+      "name": "Finsbury Street",
+      "stopIndicator": "R",
+      "towards": "Finsbury Square",
+      "direction": "e",
+      "lat": 51.520647876375065,
+      "lng": -0.08836298376603567,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "54550",
+      "smsCode": "54550",
+      "name": "Folgate Street",
+      "stopIndicator": "T",
+      "towards": "Aldgate",
+      "direction": "se",
+      "lat": 51.52059453200781,
+      "lng": -0.07465705799942837,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "77994",
+      "smsCode": "77994",
+      "name": "Goswell Road",
+      "stopIndicator": "BX",
+      "towards": "Holborn",
+      "direction": "sw",
+      "lat": 51.52363797159915,
+      "lng": -0.09749245212910045,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "54475",
+      "smsCode": "54475",
+      "name": "Goswell Road / Aldersgate Street",
+      "stopIndicator": "BS",
+      "towards": "Shoreditch or Finsbury Square",
+      "direction": "ne",
+      "lat": 51.523160074077055,
+      "lng": -0.09963141208825746,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "153",
+          "name": "153"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "48964",
+      "smsCode": "48964",
+      "name": "Goswell Road / Great Sutton Street",
+      "stopIndicator": "BT",
+      "towards": "Angel Islington",
+      "direction": "n",
+      "lat": 51.52407039172057,
+      "lng": -0.09920429270945016,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "55939",
+      "smsCode": "55939",
+      "name": "Great Eastern Street",
+      "stopIndicator": "Y",
+      "towards": "Cambridge Heath or Dalston",
+      "direction": "e",
+      "lat": 51.52672699603229,
+      "lng": -0.08231297712015616,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "74953",
+      "smsCode": "74953",
+      "name": "Great Eastern Street",
+      "stopIndicator": "YA",
+      "towards": "Holborn",
+      "direction": "w",
+      "lat": 51.52650889259693,
+      "lng": -0.08327361941688104,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "74039",
+      "smsCode": "74039",
+      "name": "Great Swan Alley",
+      "stopIndicator": null,
+      "towards": "Aldwych or London Bridge",
+      "direction": "s",
+      "lat": 51.515859451429,
+      "lng": -0.08919764628111118,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "48702",
+      "smsCode": "48702",
+      "name": "Great Winchester Street",
+      "stopIndicator": "Z",
+      "towards": "Liverpool Street Station",
+      "direction": "ne",
+      "lat": 51.51581268284984,
+      "lng": -0.08412624582011968,
+      "routes": [
+        {
+          "id": "11",
+          "name": "11"
+        },
+        {
+          "id": "23",
+          "name": "23"
+        },
+        {
+          "id": "133",
+          "name": "133"
+        },
+        {
+          "id": "N11",
+          "name": "N11"
+        },
+        {
+          "id": "N133",
+          "name": "N133"
+        }
+      ]
+    },
+    {
+      "id": "55223",
+      "smsCode": "55223",
+      "name": "Houndsditch",
+      "stopIndicator": "M",
+      "towards": "Tower Bridge or Whitechapel",
+      "direction": "se",
+      "lat": 51.516037858058425,
+      "lng": -0.0797496494954305,
+      "routes": [
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "100",
+          "name": "100"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "48221",
+      "smsCode": "48221",
+      "name": "Jamaica Street",
+      "stopIndicator": "W",
+      "towards": "Mile End",
+      "direction": "e",
+      "lat": 51.516913725127026,
+      "lng": -0.04891150713947205,
+      "routes": [
+        {
+          "id": "339",
+          "name": "339"
+        }
+      ]
+    },
+    {
+      "id": "59105",
+      "smsCode": "59105",
+      "name": "Jamaica Street",
+      "stopIndicator": "Z",
+      "towards": "Shadwell",
+      "direction": "w",
+      "lat": 51.51679390801288,
+      "lng": -0.04927696078304627,
+      "routes": [
+        {
+          "id": "339",
+          "name": "339"
+        }
+      ]
+    },
+    {
+      "id": "51883",
+      "smsCode": "51883",
+      "name": "King Edward Street",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "n",
+      "lat": 51.51655220526124,
+      "lng": -0.098623691881888,
+      "routes": [
+        {
+          "id": "172",
+          "name": "172"
+        }
+      ]
+    },
+    {
+      "id": "50503",
+      "smsCode": "50503",
+      "name": "King Edward Street",
+      "stopIndicator": "ST",
+      "towards": "Bank, Barbican or London Bridge",
+      "direction": "e",
+      "lat": 51.51572638432034,
+      "lng": -0.09982552696998774,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "521",
+          "name": "521"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "48024",
+      "smsCode": "48024",
+      "name": "Little Britain",
+      "stopIndicator": "SV",
+      "towards": "Angel Islington or Liverpool Street",
+      "direction": "ne",
+      "lat": 51.5176131885499,
+      "lng": -0.09806062015647717,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        },
+        {
+          "id": "100",
+          "name": "100"
+        },
+        {
+          "id": "172",
+          "name": "172"
+        }
+      ]
+    },
+    {
+      "id": "52511",
+      "smsCode": "52511",
+      "name": "Little Britain",
+      "stopIndicator": "SV",
+      "towards": null,
+      "direction": "n",
+      "lat": 51.51648953339492,
+      "lng": -0.0986407149806412,
+      "routes": []
+    },
+    {
+      "id": "52505",
+      "smsCode": "52505",
+      "name": "Liverpool Street",
+      "stopIndicator": "S",
+      "towards": null,
+      "direction": "w",
+      "lat": 51.51769272429488,
+      "lng": -0.08416266034985222,
+      "routes": []
+    },
+    {
+      "id": "73106",
+      "smsCode": "73106",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "E",
+      "towards": "Dalston or Shoreditch",
+      "direction": "ne",
+      "lat": 51.51810187133455,
+      "lng": -0.08003759206540854,
+      "routes": [
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        }
+      ]
+    },
+    {
+      "id": "75373",
+      "smsCode": "75373",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "F",
+      "towards": "Bethnal Green, Hackney or Old Street",
+      "direction": "ne",
+      "lat": 51.51749100566299,
+      "lng": -0.08062540750036719,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "77688",
+      "smsCode": "77688",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "B",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.51799104775171,
+      "lng": -0.08260788175734739,
+      "routes": []
+    },
+    {
+      "id": "52362",
+      "smsCode": "52362",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "D",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.518374401271565,
+      "lng": -0.0824044024814365,
+      "routes": []
+    },
+    {
+      "id": "56151",
+      "smsCode": "56151",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "L",
+      "towards": "Aldgate or Bank",
+      "direction": "sw",
+      "lat": 51.51788454746736,
+      "lng": -0.07994583618981155,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "55940",
+      "smsCode": "55940",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "A",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.5178304700145,
+      "lng": -0.08268669366389622,
+      "routes": [
+        {
+          "id": "133",
+          "name": "133"
+        },
+        {
+          "id": "N133",
+          "name": "N133"
+        }
+      ]
+    },
+    {
+      "id": "72104",
+      "smsCode": "72104",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "K",
+      "towards": "London Bridge",
+      "direction": "sw",
+      "lat": 51.517256652391566,
+      "lng": -0.0805920196049588,
+      "routes": [
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        }
+      ]
+    },
+    {
+      "id": "72810",
+      "smsCode": "72810",
+      "name": "Liverpool Street Station",
+      "stopIndicator": "C",
+      "towards": null,
+      "direction": "s",
+      "lat": 51.518213823695355,
+      "lng": -0.08248321579795101,
+      "routes": [
+        {
+          "id": "11",
+          "name": "11"
+        },
+        {
+          "id": "23",
+          "name": "23"
+        },
+        {
+          "id": "N11",
+          "name": "N11"
+        }
+      ]
+    },
+    {
+      "id": "58298",
+      "smsCode": "58298",
+      "name": "Liverpool Street Station",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "n",
+      "lat": 51.518030290008426,
+      "lng": -0.08280802483841143,
+      "routes": [
+        {
+          "id": "11",
+          "name": "11"
+        },
+        {
+          "id": "23",
+          "name": "23"
+        },
+        {
+          "id": "133",
+          "name": "133"
+        },
+        {
+          "id": "N11",
+          "name": "N11"
+        },
+        {
+          "id": "N133",
+          "name": "N133"
+        }
+      ]
+    },
+    {
+      "id": "50670",
+      "smsCode": "50670",
+      "name": "Lolesworth Close",
+      "stopIndicator": "Y",
+      "towards": "Shoreditch",
+      "direction": "nw",
+      "lat": 51.51771416815869,
+      "lng": -0.0739425441625947,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "57045",
+      "smsCode": "57045",
+      "name": "Lolesworth Close",
+      "stopIndicator": "Z",
+      "towards": "Aldgate",
+      "direction": "se",
+      "lat": 51.517364879712595,
+      "lng": -0.07348163542115779,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "74259",
+      "smsCode": "74259",
+      "name": "London Wall",
+      "stopIndicator": null,
+      "towards": "Old Street or Liverpool Street Station",
+      "direction": "n",
+      "lat": 51.516764734389945,
+      "lng": -0.08901562629975018,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "73989",
+      "smsCode": "73989",
+      "name": "London Wall / Museum Of London",
+      "stopIndicator": "BE",
+      "towards": "Liverpool Street",
+      "direction": "e",
+      "lat": 51.517575421669854,
+      "lng": -0.09517949623845039,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "72430",
+      "smsCode": "72430",
+      "name": "London Wall / Museum Of London",
+      "stopIndicator": "BH",
+      "towards": "Blackfriars",
+      "direction": "w",
+      "lat": 51.51741389926398,
+      "lng": -0.09520064867375068,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "49876",
+      "smsCode": "49876",
+      "name": "Mile End Road",
+      "stopIndicator": "V",
+      "towards": "Bethnal Green",
+      "direction": "nw",
+      "lat": 51.52106805079222,
+      "lng": -0.04511586379292694,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "50199",
+      "smsCode": "50199",
+      "name": "Mile End Road",
+      "stopIndicator": "L",
+      "towards": "Poplar",
+      "direction": "se",
+      "lat": 51.5217198584629,
+      "lng": -0.04537624755421242,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "51748",
+      "smsCode": "51748",
+      "name": "Moorfields Eye Hospital",
+      "stopIndicator": "P",
+      "towards": "Angel Islington",
+      "direction": "w",
+      "lat": 51.52782986576301,
+      "lng": -0.09038326344614603,
+      "routes": [
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "72165",
+      "smsCode": "72165",
+      "name": "Moorgate",
+      "stopIndicator": null,
+      "towards": null,
+      "direction": "se",
+      "lat": 51.51954137227398,
+      "lng": -0.0883372476406525,
+      "routes": []
+    },
+    {
+      "id": "91267",
+      "smsCode": "91267",
+      "name": "Moorgate Station",
+      "stopIndicator": "A",
+      "towards": "Aldgate",
+      "direction": "e",
+      "lat": 51.517604157595954,
+      "lng": -0.08975882015419248,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "77257",
+      "smsCode": "77257",
+      "name": "Moorgate Station",
+      "stopIndicator": "L",
+      "towards": "Aldwych or London Bridge",
+      "direction": "sw",
+      "lat": 51.517797536016104,
+      "lng": -0.08838143978930826,
+      "routes": []
+    },
+    {
+      "id": "55627",
+      "smsCode": "55627",
+      "name": "Moorgate Station",
+      "stopIndicator": "B",
+      "towards": "Old Street",
+      "direction": "n",
+      "lat": 51.51862100012202,
+      "lng": -0.0881451657940227,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "52872",
+      "smsCode": "52872",
+      "name": "Moorgate Station",
+      "stopIndicator": "N",
+      "towards": "Blackfriars",
+      "direction": "w",
+      "lat": 51.517443267290936,
+      "lng": -0.09037091709118154,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "74459",
+      "smsCode": "74459",
+      "name": "Musbury Street",
+      "stopIndicator": null,
+      "towards": "Shadwell",
+      "direction": "s",
+      "lat": 51.515911865353985,
+      "lng": -0.05301880004465716,
+      "routes": [
+        {
+          "id": "339",
+          "name": "339"
+        }
+      ]
+    },
+    {
+      "id": "77491",
+      "smsCode": "77491",
+      "name": "Museum Of London",
+      "stopIndicator": "BD",
+      "towards": "Aldwych or St. Barts Hospital",
+      "direction": "s",
+      "lat": 51.518304193244134,
+      "lng": -0.09686432222219679,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "54237",
+      "smsCode": "54237",
+      "name": "Museum Of London",
+      "stopIndicator": "BC",
+      "towards": "Angel Islington",
+      "direction": "n",
+      "lat": 51.51879553939175,
+      "lng": -0.09721860026866604,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "50035",
+      "smsCode": "50035",
+      "name": "Ocean Estate",
+      "stopIndicator": "F",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.52229185502609,
+      "lng": -0.04246873877807374,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "55048",
+      "smsCode": "55048",
+      "name": "Old Montague Street",
+      "stopIndicator": "U",
+      "towards": "Bethnal Green",
+      "direction": "n",
+      "lat": 51.51999194617419,
+      "lng": -0.06372760327321675,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "73921",
+      "smsCode": "73921",
+      "name": "Old Street Roundabout",
+      "stopIndicator": "E",
+      "towards": "Angel Islington",
+      "direction": "n",
+      "lat": 51.52645169339538,
+      "lng": -0.08803340442494507,
+      "routes": [
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "76090",
+      "smsCode": "76090",
+      "name": "Old Street Station",
+      "stopIndicator": "C",
+      "towards": "Liverpool Street or Moorgate",
+      "direction": "se",
+      "lat": 51.527184054694935,
+      "lng": -0.08827663794649243,
+      "routes": [
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "48584",
+      "smsCode": "48584",
+      "name": "Old Street Station",
+      "stopIndicator": "N",
+      "towards": "Hoxton or Angel Islington",
+      "direction": "n",
+      "lat": 51.52386272801613,
+      "lng": -0.08753640261229055,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "43",
+          "name": "43"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "214",
+          "name": "214"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "55867",
+      "smsCode": "55867",
+      "name": "Old Street Station",
+      "stopIndicator": "F",
+      "towards": "Dalston Junction or Cambridge Heath",
+      "direction": "e",
+      "lat": 51.525565730952536,
+      "lng": -0.08884898360894689,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "72388",
+      "smsCode": "72388",
+      "name": "Old Street Station",
+      "stopIndicator": "B",
+      "towards": "Liverpool Street Station",
+      "direction": "s",
+      "lat": 51.52718646539681,
+      "lng": -0.08787287386651675,
+      "routes": [
+        {
+          "id": "135",
+          "name": "135"
+        }
+      ]
+    },
+    {
+      "id": "71142",
+      "smsCode": "71142",
+      "name": "Old Street Station",
+      "stopIndicator": "L",
+      "towards": "Holborn or Islington",
+      "direction": "w",
+      "lat": 51.525925015186054,
+      "lng": -0.08606604000678984,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "58537",
+      "smsCode": "58537",
+      "name": "Old Street Stn  / Moorfields Eye Hosp",
+      "stopIndicator": "D",
+      "towards": "Moorgate",
+      "direction": "s",
+      "lat": 51.52738463616804,
+      "lng": -0.08789340434235031,
+      "routes": [
+        {
+          "id": "21",
+          "name": "21"
+        },
+        {
+          "id": "76",
+          "name": "76"
+        },
+        {
+          "id": "141",
+          "name": "141"
+        },
+        {
+          "id": "271",
+          "name": "271"
+        },
+        {
+          "id": "N76",
+          "name": "N76"
+        }
+      ]
+    },
+    {
+      "id": "73863",
+      "smsCode": "73863",
+      "name": "Osborn Street",
+      "stopIndicator": "G",
+      "towards": "Bank or Liverpool Street",
+      "direction": "sw",
+      "lat": 51.51651055845819,
+      "lng": -0.06855954439229214,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "71357",
+      "smsCode": "71357",
+      "name": "Osborn Street",
+      "stopIndicator": "D",
+      "towards": "Bethnal Green or Mile End",
+      "direction": "ne",
+      "lat": 51.516482202910154,
+      "lng": -0.06902196613582633,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "75533",
+      "smsCode": "75533",
+      "name": "Pear Tree Street",
+      "stopIndicator": "UR",
+      "towards": "Barbican",
+      "direction": "s",
+      "lat": 51.524908935385696,
+      "lng": -0.09934236160613279,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "76991",
+      "smsCode": "76991",
+      "name": "Percival Street",
+      "stopIndicator": "UQ",
+      "towards": "Angel Islington",
+      "direction": "n",
+      "lat": 51.52607064161377,
+      "lng": -0.10000037667980029,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "47740",
+      "smsCode": "47740",
+      "name": "Percival Street",
+      "stopIndicator": "UP",
+      "towards": "Barbican",
+      "direction": "s",
+      "lat": 51.52712742660136,
+      "lng": -0.1002879619166235,
+      "routes": [
+        {
+          "id": "4",
+          "name": "4"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "53405",
+      "smsCode": "53405",
+      "name": "Pitfield Street",
+      "stopIndicator": "M",
+      "towards": "Liverpool Street",
+      "direction": "se",
+      "lat": 51.52589452203348,
+      "lng": -0.08309759437099742,
+      "routes": [
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "75291",
+      "smsCode": "75291",
+      "name": "Pollard Row",
+      "stopIndicator": "SG",
+      "towards": "Hackney, Old Ford or London Chest Hospital",
+      "direction": "e",
+      "lat": 51.52665197521031,
+      "lng": -0.06351714478675362,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "D3",
+          "name": "D3"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "50494",
+      "smsCode": "50494",
+      "name": "Portman Place",
+      "stopIndicator": "HR",
+      "towards": "Bethnal Green",
+      "direction": "nw",
+      "lat": 51.526126145577024,
+      "lng": -0.05023324399150045,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "53718",
+      "smsCode": "53718",
+      "name": "Portman Place",
+      "stopIndicator": "HM",
+      "towards": "Poplar",
+      "direction": "s",
+      "lat": 51.526723785682705,
+      "lng": -0.050481624940478545,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "73044",
+      "smsCode": "73044",
+      "name": "Primrose Street",
+      "stopIndicator": "J",
+      "towards": "Aldgate, Bank or Monument",
+      "direction": "s",
+      "lat": 51.519783785883774,
+      "lng": -0.07895786108167345,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "56259",
+      "smsCode": "56259",
+      "name": "Primrose Street",
+      "stopIndicator": "H",
+      "towards": "Bethnal Green, Dalston or Hackney",
+      "direction": "n",
+      "lat": 51.519939621376196,
+      "lng": -0.07913868881508038,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "54248",
+      "smsCode": "54248",
+      "name": "Queen Mary / University Of London",
+      "stopIndicator": "D",
+      "towards": "Bow",
+      "direction": "ne",
+      "lat": 51.52281307196769,
+      "lng": -0.040831878600555684,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "73334",
+      "smsCode": "73334",
+      "name": "Ravey Street",
+      "stopIndicator": "Z",
+      "towards": "Old Street Station",
+      "direction": "nw",
+      "lat": 51.52543460559927,
+      "lng": -0.08246819051187988,
+      "routes": [
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "75103",
+      "smsCode": "75103",
+      "name": "Royal London Hospital",
+      "stopIndicator": "A",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.51879410437978,
+      "lng": -0.06089562089970197,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "55034",
+      "smsCode": "55034",
+      "name": "Royal London Hospital",
+      "stopIndicator": "L",
+      "towards": "Bethnal Green",
+      "direction": "n",
+      "lat": 51.51673309180667,
+      "lng": -0.06242448667338586,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "71446",
+      "smsCode": "71446",
+      "name": "Royal London Hospital",
+      "stopIndicator": "H",
+      "towards": "Wapping",
+      "direction": "s",
+      "lat": 51.517552510090496,
+      "lng": -0.06249060556912074,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "51737",
+      "smsCode": "51737",
+      "name": "Royal London Hospital / Whitechapel Stn",
+      "stopIndicator": "B",
+      "towards": "Cambridge Heath or Mile End",
+      "direction": "e",
+      "lat": 51.519391452827314,
+      "lng": -0.05895316859927858,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "77125",
+      "smsCode": "77125",
+      "name": "Shoreditch",
+      "stopIndicator": "Z2",
+      "towards": null,
+      "direction": "se",
+      "lat": 51.52561455549017,
+      "lng": -0.07753033856022194,
+      "routes": [
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        }
+      ]
+    },
+    {
+      "id": "51050",
+      "smsCode": "51050",
+      "name": "Shoreditch Church",
+      "stopIndicator": "P",
+      "towards": "Dalston Junction or Cambridge Heath",
+      "direction": "nw",
+      "lat": 51.525982981845964,
+      "lng": -0.078062634676347,
+      "routes": [
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "67",
+          "name": "67"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        }
+      ]
+    },
+    {
+      "id": "58294",
+      "smsCode": "58294",
+      "name": "Shoreditch Church",
+      "stopIndicator": "S",
+      "towards": "Liverpool Street or Old Street",
+      "direction": "sw",
+      "lat": 51.52749058933871,
+      "lng": -0.07677373093879786,
+      "routes": [
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "55459",
+      "smsCode": "55459",
+      "name": "Shoreditch Fire Station",
+      "stopIndicator": "K",
+      "towards": "Cambridge Heath, Dalston or Liverpool St",
+      "direction": "ne",
+      "lat": 51.52613240771673,
+      "lng": -0.08610059171941922,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "47170",
+      "smsCode": "47170",
+      "name": "Shoreditch High St / Bethnal Green Rd",
+      "stopIndicator": "L",
+      "towards": "Dalston Junction or Cambridge Heath",
+      "direction": "n",
+      "lat": 51.5243883961706,
+      "lng": -0.07733691735034741,
+      "routes": [
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "67",
+          "name": "67"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        }
+      ]
+    },
+    {
+      "id": "75380",
+      "smsCode": "75380",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "N",
+      "towards": "Aldgate, Bank or Monument",
+      "direction": "s",
+      "lat": 51.524990009894815,
+      "lng": -0.07728274315059475,
+      "routes": [
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "67",
+          "name": "67"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        }
+      ]
+    },
+    {
+      "id": "55768",
+      "smsCode": "55768",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "F",
+      "towards": "Dalston Junction or Cambridge Heath",
+      "direction": "n",
+      "lat": 51.52224394622759,
+      "lng": -0.07817682314280006,
+      "routes": [
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "78",
+          "name": "78"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        }
+      ]
+    },
+    {
+      "id": "56766",
+      "smsCode": "56766",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "E",
+      "towards": "Bethnal Green or Old Street",
+      "direction": "n",
+      "lat": 51.52193178371203,
+      "lng": -0.07833411458691633,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "53485",
+      "smsCode": "53485",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "B",
+      "towards": "Liverpool Street",
+      "direction": "se",
+      "lat": 51.524049674384464,
+      "lng": -0.07971533815806575,
+      "routes": [
+        {
+          "id": "135",
+          "name": "135"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "57174",
+      "smsCode": "57174",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "S",
+      "towards": "Dalston Junction",
+      "direction": "nw",
+      "lat": 51.52090928914248,
+      "lng": -0.0752059511860258,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "52428",
+      "smsCode": "52428",
+      "name": "Shoreditch High Street Station",
+      "stopIndicator": "K",
+      "towards": "Bank",
+      "direction": "w",
+      "lat": 51.52357491796612,
+      "lng": -0.07598730275437895,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "49885",
+      "smsCode": "49885",
+      "name": "Shoreditch Town Hall",
+      "stopIndicator": "X",
+      "towards": "Cambridge Heath or Dalston",
+      "direction": "e",
+      "lat": 51.52730061712058,
+      "lng": -0.07944880635799724,
+      "routes": [
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "77036",
+      "smsCode": "77036",
+      "name": "Shoreditch Town Hall",
+      "stopIndicator": "W",
+      "towards": "Holborn",
+      "direction": "w",
+      "lat": 51.5271752798003,
+      "lng": -0.07948291382737543,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "48268",
+      "smsCode": "48268",
+      "name": "Sidney Street",
+      "stopIndicator": "F",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.51990835134059,
+      "lng": -0.05541410154777532,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "56084",
+      "smsCode": "56084",
+      "name": "Silk Street",
+      "stopIndicator": "BM",
+      "towards": "Angel Islington",
+      "direction": "w",
+      "lat": 51.52094634031225,
+      "lng": -0.09178115130293812,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "49522",
+      "smsCode": "49522",
+      "name": "St Bartholomew's Hospital",
+      "stopIndicator": "HQ",
+      "towards": "Barbican or King's Cross",
+      "direction": "s",
+      "lat": 51.51751176514322,
+      "lng": -0.10123580661434617,
+      "routes": [
+        {
+          "id": "46",
+          "name": "46"
+        },
+        {
+          "id": "56",
+          "name": "56"
+        }
+      ]
+    },
+    {
+      "id": "49372",
+      "smsCode": "49372",
+      "name": "St Dunstan's Church",
+      "stopIndicator": "Y",
+      "towards": "Shadwell",
+      "direction": "w",
+      "lat": 51.51662849169381,
+      "lng": -0.04474384481812685,
+      "routes": [
+        {
+          "id": "339",
+          "name": "339"
+        }
+      ]
+    },
+    {
+      "id": "52386",
+      "smsCode": "52386",
+      "name": "St Dunstan's Church",
+      "stopIndicator": "X",
+      "towards": "Mile End",
+      "direction": "e",
+      "lat": 51.51674118487544,
+      "lng": -0.04341299288264452,
+      "routes": [
+        {
+          "id": "339",
+          "name": "339"
+        }
+      ]
+    },
+    {
+      "id": "53751",
+      "smsCode": "53751",
+      "name": "St John Street / Clerkenwell Road",
+      "stopIndicator": null,
+      "towards": "Barbican",
+      "direction": "s",
+      "lat": 51.52325621215049,
+      "lng": -0.10223657399628769,
+      "routes": [
+        {
+          "id": "153",
+          "name": "153"
+        }
+      ]
+    },
+    {
+      "id": "51952",
+      "smsCode": "51952",
+      "name": "St Luke's Music Education Centre",
+      "stopIndicator": "H",
+      "towards": "Holborn",
+      "direction": "w",
+      "lat": 51.52474258334804,
+      "lng": -0.09352532528713664,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "56749",
+      "smsCode": "56749",
+      "name": "St Luke's Music Education Centre",
+      "stopIndicator": "J",
+      "towards": "Shoreditch",
+      "direction": "e",
+      "lat": 51.52504258679551,
+      "lng": -0.0926190115008863,
+      "routes": [
+        {
+          "id": "55",
+          "name": "55"
+        },
+        {
+          "id": "243",
+          "name": "243"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        },
+        {
+          "id": "N55",
+          "name": "N55"
+        }
+      ]
+    },
+    {
+      "id": "54222",
+      "smsCode": "54222",
+      "name": "Stepney Green",
+      "stopIndicator": "A",
+      "towards": "Bow",
+      "direction": "e",
+      "lat": 51.52091664450097,
+      "lng": -0.051147664808431956,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "51293",
+      "smsCode": "51293",
+      "name": "Stepney Green",
+      "stopIndicator": "H",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.52086261641011,
+      "lng": -0.0506022161437985,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "77341",
+      "smsCode": "77341",
+      "name": "Stepney Green School",
+      "stopIndicator": "M",
+      "towards": "Poplar",
+      "direction": "s",
+      "lat": 51.51893871555824,
+      "lng": -0.043073772188552274,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "52581",
+      "smsCode": "52581",
+      "name": "Stepney Green School",
+      "stopIndicator": "U",
+      "towards": "Bethnal Green",
+      "direction": "n",
+      "lat": 51.51818555823085,
+      "lng": -0.043206953074201186,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "76833",
+      "smsCode": "76833",
+      "name": "Stepney Green Station",
+      "stopIndicator": "J",
+      "towards": "Bethnal Green",
+      "direction": "nw",
+      "lat": 51.52240032926073,
+      "lng": -0.046817450015496365,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "73271",
+      "smsCode": "73271",
+      "name": "Stepney Green Station",
+      "stopIndicator": "B",
+      "towards": "Bow",
+      "direction": "e",
+      "lat": 51.521783159966425,
+      "lng": -0.04701683690553077,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "71593",
+      "smsCode": "71593",
+      "name": "Stepney Green Station",
+      "stopIndicator": "G",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.5217043133751,
+      "lng": -0.046602178610521745,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        }
+      ]
+    },
+    {
+      "id": "59044",
+      "smsCode": "59044",
+      "name": "Stepney Green Station",
+      "stopIndicator": "K",
+      "towards": "Poplar",
+      "direction": "se",
+      "lat": 51.5223246010875,
+      "lng": -0.04659004907845715,
+      "routes": [
+        {
+          "id": "309",
+          "name": "309"
+        }
+      ]
+    },
+    {
+      "id": "47407",
+      "smsCode": "47407",
+      "name": "The East London Mosque",
+      "stopIndicator": "J",
+      "towards": "Cambridge Heath or Mile End",
+      "direction": "ne",
+      "lat": 51.518167539103004,
+      "lng": -0.06433828988031359,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "51779",
+      "smsCode": "51779",
+      "name": "The East London Mosque",
+      "stopIndicator": "K",
+      "towards": "Aldgate",
+      "direction": "sw",
+      "lat": 51.51787693386839,
+      "lng": -0.0647109521993039,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "57347",
+      "smsCode": "57347",
+      "name": "Three Colts Lane",
+      "stopIndicator": "S",
+      "towards": "Hackney",
+      "direction": "n",
+      "lat": 51.52526319810857,
+      "lng": -0.05512830021872271,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "51698",
+      "smsCode": "51698",
+      "name": "Three Colts Lane",
+      "stopIndicator": "T",
+      "towards": "Aldgate",
+      "direction": "s",
+      "lat": 51.525088398244804,
+      "lng": -0.05489067774435068,
+      "routes": [
+        {
+          "id": "106",
+          "name": "106"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "59022",
+      "smsCode": "59022",
+      "name": "Underwood Road",
+      "stopIndicator": "T",
+      "towards": "Wapping",
+      "direction": "s",
+      "lat": 51.521175808938786,
+      "lng": -0.06408099904041448,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "77581",
+      "smsCode": "77581",
+      "name": "Weavers Fields",
+      "stopIndicator": "SF",
+      "towards": "Bethnal Green",
+      "direction": "n",
+      "lat": 51.52496521979392,
+      "lng": -0.06429508846839126,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "52449",
+      "smsCode": "52449",
+      "name": "Weavers Fields",
+      "stopIndicator": "SE",
+      "towards": "Wapping",
+      "direction": "s",
+      "lat": 51.52527004033826,
+      "lng": -0.06423891289047462,
+      "routes": [
+        {
+          "id": "D3",
+          "name": "D3"
+        }
+      ]
+    },
+    {
+      "id": "50125",
+      "smsCode": "50125",
+      "name": "Whitechapel High Street",
+      "stopIndicator": "C",
+      "towards": "Aldgate",
+      "direction": "se",
+      "lat": 51.51576931032893,
+      "lng": -0.07215090385917805,
+      "routes": [
+        {
+          "id": "67",
+          "name": "67"
+        }
+      ]
+    },
+    {
+      "id": "74801",
+      "smsCode": "74801",
+      "name": "Whitechapel Station",
+      "stopIndicator": "C",
+      "towards": "Aldgate",
+      "direction": "w",
+      "lat": 51.51926278416729,
+      "lng": -0.05878567033877569,
+      "routes": [
+        {
+          "id": "25",
+          "name": "25"
+        },
+        {
+          "id": "205",
+          "name": "205"
+        },
+        {
+          "id": "254",
+          "name": "254"
+        },
+        {
+          "id": "N205",
+          "name": "N205"
+        },
+        {
+          "id": "N253",
+          "name": "N253"
+        }
+      ]
+    },
+    {
+      "id": "47162",
+      "smsCode": "47162",
+      "name": "Wilmot Street",
+      "stopIndicator": "E",
+      "towards": "Liverpool Street or Whitechapel",
+      "direction": "w",
+      "lat": 51.527047748970325,
+      "lng": -0.058627559080158535,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "D3",
+          "name": "D3"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "53227",
+      "smsCode": "53227",
+      "name": "Wilmot Street",
+      "stopIndicator": "F",
+      "towards": "Hackney, Old Ford or London Chest Hospital",
+      "direction": "e",
+      "lat": 51.52703421154858,
+      "lng": -0.05998329025859058,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "D3",
+          "name": "D3"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        }
+      ]
+    },
+    {
+      "id": "47716",
+      "smsCode": "47716",
+      "name": "Wormwood Street",
+      "stopIndicator": "W",
+      "towards": "Bethnal Green, Dalston or Hackney",
+      "direction": "ne",
+      "lat": 51.515861543973614,
+      "lng": -0.0821640315745853,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        }
+      ]
+    },
+    {
+      "id": "55771",
+      "smsCode": "55771",
+      "name": "Wormwood Street",
+      "stopIndicator": "Q",
+      "towards": "St Paul's",
+      "direction": "w",
+      "lat": 51.51620393176108,
+      "lng": -0.08275499888572405,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "53334",
+      "smsCode": "53334",
+      "name": "Wormwood Street",
+      "stopIndicator": "P",
+      "towards": "Aldgate",
+      "direction": "e",
+      "lat": 51.51635481678609,
+      "lng": -0.08263335784055449,
+      "routes": [
+        {
+          "id": "100",
+          "name": "100"
+        }
+      ]
+    },
+    {
+      "id": "49190",
+      "smsCode": "49190",
+      "name": "Wormwood Street",
+      "stopIndicator": "Y",
+      "towards": "London Bridge or St Paul's",
+      "direction": "sw",
+      "lat": 51.515617969070576,
+      "lng": -0.08211661121052023,
+      "routes": [
+        {
+          "id": "8",
+          "name": "8"
+        },
+        {
+          "id": "26",
+          "name": "26"
+        },
+        {
+          "id": "35",
+          "name": "35"
+        },
+        {
+          "id": "47",
+          "name": "47"
+        },
+        {
+          "id": "48",
+          "name": "48"
+        },
+        {
+          "id": "149",
+          "name": "149"
+        },
+        {
+          "id": "242",
+          "name": "242"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        },
+        {
+          "id": "388",
+          "name": "388"
+        },
+        {
+          "id": "N8",
+          "name": "N8"
+        },
+        {
+          "id": "N26",
+          "name": "N26"
+        },
+        {
+          "id": "N35",
+          "name": "N35"
+        }
+      ]
+    },
+    {
+      "id": "72570",
+      "smsCode": "72570",
+      "name": "Worship Street",
+      "stopIndicator": "C",
+      "towards": "Aldgate or Monument",
+      "direction": "e",
+      "lat": 51.52175696963006,
+      "lng": -0.07973971337754483,
+      "routes": [
+        {
+          "id": "42",
+          "name": "42"
+        },
+        {
+          "id": "344",
+          "name": "344"
+        }
+      ]
+    }
+  ]
+}
