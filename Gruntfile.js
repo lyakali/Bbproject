@@ -1,47 +1,80 @@
-module.exports = function(grunt) {
+module.exports = function (grunt) {
+
 
   grunt.initConfig({
-    
+
+    pkg: grunt.file.readJSON('package.json'),
     jshint: {
-      src: ['Gruntfile.js', 'js/*.js'],
-      options: {
-    
+      files: [
+        'Gruntfile.js',
+        'scripts/*.js'
+      ],
+      globals: {
+        jQuery: true
       }
     },
 
-    sass: {                              // Task
-    dist: {                            // Target
-      options: {                       // Target options
-        style: 'expanded'
+
+    sass: {
+      dist: {
+        options: {
+          lineNumbers: true,
+          style: 'expanded'
+        },
+        files: {
+          'css/styles.css': 'sass/styles.scss'
+        }
+      }
+    },
+
+
+    watch: {
+      jshint: {
+        files: [
+          'Gruntfile.js',
+          'scripts/*'
+        ],
+        tasks: ['jshint']
       },
-      files: {                         // Dictionary of files
-        'css/styles.css': 'scss/styles.scss'
+      css: {
+        files: 'sass/*.scss',
+        tasks: ['sass']
+      }
+    },
+
+
+    server: {
+       port: 3000,
+       base: 'backbone.html'
+    },
+
+    // starts the dev server
+    open : {
+      dev : {
+        path: 'http://localhost:3000/'
       }
     }
-  },
-
-  watch: {
-  css: {
-    files: '**/*.sass',
-    tasks: ['sass'],
-    options: {
-      livereload: {
-        port: 8080 
-      }
-    },
-  },
-},
-
 
   });
 
-  // Load JSHint task
+
+  grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-
-  // Default task.
-  grunt.registerTask('default', 'jshint', 'sass');
+  grunt.loadNpmTasks('grunt-contrib-concat');
+    grunt.loadNpmTasks('grunt-open');                   // Open browser when server has been created
 
 
+  //Register tasks!
+  grunt.registerTask('server', 'Start a custom web server', function() {
+    grunt.log.writeln('Started web server on port 3000');
+   require('./js/model.js').listen(3000);
+  });
+
+  //run a web server and run the watch command.
+  grunt.registerTask('default', ['build', 'server', 'open:dev', 'watch']);
+
+  grunt.registerTask('build', ['jshint', 'sass']);
+
+  //grunt.registerTask('default', ['jshint', 'concat', 'sass']);
 };
