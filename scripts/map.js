@@ -2,13 +2,13 @@
 function initialize() {
     var mapOptions = {
       center: new google.maps.LatLng(51.511093, -0.118189),
-      zoom: 11
+      zoom: 13
     };
     var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
 
     
 
-    $.getJSON( "json/bus-stops.json", function( data ) {
+    $.getJSON( "scripts/data/stops.json", function( data ) {
       var items = [];
 
       $.each(data.markers,function() {
@@ -16,7 +16,6 @@ function initialize() {
         var item = this;
         latLng = new google.maps.LatLng(this.lat, this.lng); 
 
-         // Creating a marker and putting it on the map
         var marker = new google.maps.Marker({
           position: latLng,
           map: map,
@@ -29,8 +28,9 @@ function initialize() {
 
       
         google.maps.event.addListener(marker, "click", function(e) {
-          // infoWindow.setContent(this.name);
-          infoWindow.open(map, marker);
+          
+          //infoWindow.open(map, marker);
+          console.log(item.id)
         });
 
       });

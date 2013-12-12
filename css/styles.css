@@ -76,7 +76,17 @@ html, body, #map-canvas {
   padding: 0px;
 }
 
-/* line 6, ../sass/map.scss */
+/* line 7, ../sass/map.scss */
+#map-canvas {
+  float: left;
+}
+
+/* line 11, ../sass/map.scss */
+#mainContainer {
+  float: left;
+}
+
+/* line 14, ../sass/map.scss */
 .controls {
   margin-top: 16px;
   border: 1px solid transparent;
@@ -88,7 +98,7 @@ html, body, #map-canvas {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 
-/* line 17, ../sass/map.scss */
+/* line 25, ../sass/map.scss */
 #pac-input {
   background-color: #fff;
   padding: 0 11px 0 13px;
@@ -99,7 +109,7 @@ html, body, #map-canvas {
   text-overflow: ellipsis;
 }
 
-/* line 27, ../sass/map.scss */
+/* line 35, ../sass/map.scss */
 #pac-input:focus {
   border-color: #4d90fe;
   margin-left: -1px;
@@ -108,19 +118,19 @@ html, body, #map-canvas {
   width: 401px;
 }
 
-/* line 34, ../sass/map.scss */
+/* line 42, ../sass/map.scss */
 .pac-container {
   font-family: Roboto;
 }
 
-/* line 38, ../sass/map.scss */
+/* line 46, ../sass/map.scss */
 #type-selector {
   color: #fff;
   background-color: #4d90fe;
   padding: 5px 11px 0px 11px;
 }
 
-/* line 44, ../sass/map.scss */
+/* line 52, ../sass/map.scss */
 #type-selector label {
   font-family: Roboto;
   font-size: 13px;

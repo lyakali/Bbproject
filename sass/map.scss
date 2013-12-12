@@ -3,6 +3,14 @@ html, body, #map-canvas {
         margin: 0px;
         padding: 0px
       }
+
+      #map-canvas {
+        float:left;
+      }
+
+      #mainContainer {
+        float:left;
+      }
       .controls {
         margin-top: 16px;
         border: 1px solid transparent;
