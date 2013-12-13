@@ -29,7 +29,6 @@ function initialize() {
       
         google.maps.event.addListener(marker, "click", function(e) {
           
-          //infoWindow.open(map, marker);
           console.log(item.id)
         });
 

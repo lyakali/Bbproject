@@ -23,30 +23,40 @@ Map.Templates.details = _.template($("#tmplt-Details").html())
 Map.Views.Details = Backbone.View.extend({
     el: $("#mainContainer"),
     template: Map.Templates.details,
-  
-
+    events: {
+        "click a": "clicked"
+    },
+    
     initialize: function () {
+         _.bindAll(this, "render", "addOne", "addAll","clicked");
         this.collection.bind("reset", this.render, this);
         this.collection.bind("add", this.addOne, this);
+
+    },
+    clicked: function(e, model){
+       var id = $(e.currentTarget).data("id");
+        var item = this.collection.get(id);
+        var name = item.get("name");
+        console.log(name);
+        view = new Map.Views.Detail({ model: model });
+        $("ul", this.el).append(view.render());
     },
 
     render: function () {
-        console.log("render")
-        console.log(this.collection.length);
         $(this.el).html(this.template());
-        this.addAll();
-    },
+        //this.addAll();
+    },/*
 
     addAll: function () {
-        console.log("addAll")
-        this.collection.each(this.addOne);
+        //console.log("addAll")
+        //this.collection.each(this.addOne);
     },
 
     addOne: function (model) {
-        console.log("addOne")
+        //console.log("addOne")
         view = new Map.Views.Detail({ model: model });
         $("ul", this.el).append(view.render());
-    }
+    }*/
 
 })
 
@@ -57,7 +67,7 @@ Map.Views.Detail = Backbone.View.extend({
     template: Map.Templates.detail,
 
     initialize: function () {
-       
+       _.bindAll(this, 'render');
     },
 
     render: function () {
@@ -89,4 +99,7 @@ Map.Router = Backbone.Router.extend({
 
 var appRouter = new Map.Router();
 Backbone.history.start();
+
+
+
 
